@@ -24,3 +24,8 @@ Regressão (Encontrar um valor ou conjunto de valores infinito e ordenado):
 	-Linear Regression	
 ___________________________
 Ensemble Methods > Bagging >Random Forest
+__________________________
+Aprendizem não Supervisionado
+
+Clustering (Realizar agrupamento por similaridade)
+	-K-Means
